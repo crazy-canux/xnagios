@@ -1,0 +1,25 @@
+================
+About the folder
+================
+This is the configuration file for nagios.
+You can define some template here.
+
+----
+host
+----
+The .cfg file is the config file for nagios.The .txt file used for the hostname and ip address and environment.
+
+The format for the .txt file is:
+hostname (there must have space) ip-address (there must have space) environment
+If the requestor didn't specify the environment just ignore it.
+
+The ad* mii* ijcore* mii_win-bck* mii_win-primary* is special.No need to modify it.
+
+The host.txt is just used for remove host from nagios.Just write the hostname inside and run the program.
+
+The common* is just a template for the normal host.You can define it and rename it by you need.
+
+The program can detect the ohtpl_area itself.
+
+suggest:
+For example you got a request and the number is 1234. You can create a file named 1234.cfg and 1234.txt. And define the template in 1234.cfg and write the hostname, ipaddress and environment in 1234.txt.

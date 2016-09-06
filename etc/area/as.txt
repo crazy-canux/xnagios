@@ -1,0 +1,8 @@
+AS
+CN
+IN
+JP
+KR
+NC
+TH
+RU
