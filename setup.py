@@ -41,7 +41,7 @@ setup(
     maintainer='Canux CHENG',
     maintainer_email='canuxcheng@gmail.com',
     description='Congiruration and deploy nagios configuration automatic.',
-    long_description=read('README.md'),
+    long_description=read('README.rst'),
     license='GPL',
     platforms='any',
     keywords='monitoring nagios configuration tools',

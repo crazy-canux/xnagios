@@ -1,3 +1,4 @@
+README.rst
 setup.py
 xnagios/__init__.py
 xnagios/application.py

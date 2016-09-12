@@ -14,6 +14,6 @@ Exaple:
     ./nagios -h
 """
 
-__version__ = "3.0.1.0"
+__version__ = "3.1.0.0"
 __description__ = """Config nagios automatic. Any question contact the author Canux CHENG. Email: canuxcheng@gmail.com."""
 __author__ = "Canux CHENG"
