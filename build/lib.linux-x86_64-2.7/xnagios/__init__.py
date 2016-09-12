@@ -15,5 +15,5 @@ Exaple:
 """
 
 __version__ = "3.0.1.0"
-__description__ = """Config nagios automatic. Any question contact the author Canux CHENG. Email: canux.cheng@faurecia.com."""
+__description__ = """Config nagios automatic. Any question contact the author Canux CHENG. Email: canuxcheng@gmail.com."""
 __author__ = "Canux CHENG"
