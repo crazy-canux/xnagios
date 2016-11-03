@@ -17,7 +17,7 @@ import os
 
 from setuptools import setup, find_packages
 
-import xnagios
+import nagios
 
 
 def read(readme):
@@ -34,8 +34,8 @@ INSTALL_REQUIRES = [
 ]
 
 setup(
-    name='xnagios',
-    version=xnagios.__version__,
+    name='znagios',
+    version=nagios.__version__,
     author='Canux CHENG',
     author_email='canuxcheng@gmail.com',
     maintainer='Canux CHENG',
@@ -45,7 +45,7 @@ setup(
     license='GPL',
     platforms='any',
     keywords='monitoring nagios configuration tools',
-    url='https://github.com/crazy-canux/xnagios',
+    url='https://github.com/crazy-canux/znagios',
     install_requires=INSTALL_REQUIRES,
     packages=find_packages(),
     zip_safe=False,

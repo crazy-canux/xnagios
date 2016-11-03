@@ -42,12 +42,12 @@ class Deploy(NagiosAuto):
         self.deploy_parser.add_argument("-b", "--branch",
                                         dest="branch",
                                         required=False,
-                                        help="The branch you want to switch.")
+                                        help="Branch number like 1234, auto add request.")
         self.deploy_parser.add_argument("-c", "--comment",
                                         default="",
                                         dest="comment",
                                         required=False,
-                                        help="Commit comment like [APP]comments.")
+                                        help="Commit comment like [CH1234]Revome/Add ....")
 
     def create_one_branch(self, branch):
         """Create new branch or checkout to old branch."""

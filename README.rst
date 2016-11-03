@@ -23,6 +23,6 @@ How to use
 TODO
 ====
 
-1. xnagios.service.py need finish in 4.0.0.0.
+1. nagios.service.py need finish in 4.0.0.0.
 2. enhancement other functions.
 
