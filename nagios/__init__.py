@@ -3,7 +3,7 @@
 """
 Automatic config nagios configurations.
 
-Copyright (C) 2015 Faurecia (China) Holding Co.,Ltd.
+Copyright (C) 2015 Canux CHENG
 All rights reserved
 Name: __init__.py
 Author: Canux canuxcheng@gmail.com

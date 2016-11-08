@@ -3,7 +3,7 @@
 """
 Auto config and deploy nagios configuration.
 
-Copyright (C) 2015 Faurecia (China) Holding Co.,Ltd.
+Copyright (C) 2015 Canux CHENG
 All rights reserved.
 Name: setup.py
 Author: Canux CHENG canuxcheng@gmail.com
