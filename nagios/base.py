@@ -29,7 +29,7 @@ class NagiosAuto(object):
         self.version = nagios.__version__
         self.description = nagios.__description__
         self.user = os.getenv("USER")
-        self.path = "/home/%s/GIT/gearman/faurecia-nagios-configuration" % self.user
+        self.path = "/home/%s/GIT/gearman/canux-nagios-configuration" % self.user
 
         # Init the logger.
         logging.basicConfig(format='[%(levelname)s] (%(module)s) %(message)s')
